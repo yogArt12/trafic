@@ -1,0 +1,11 @@
+C:\Users\Fina Khairunnisa\source\repos\Traffic Signal\Traffic Signal\obj\Debug\Traffic Signal.csproj.AssemblyReference.cache
+C:\Users\Fina Khairunnisa\source\repos\Traffic Signal\Traffic Signal\obj\Debug\Traffic Signal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fina Khairunnisa\source\repos\Traffic Signal\Traffic Signal\obj\Debug\Traffic_Signal.Form1.resources
+C:\Users\Fina Khairunnisa\source\repos\Traffic Signal\Traffic Signal\obj\Debug\Traffic_Signal.Properties.Resources.resources
+C:\Users\Fina Khairunnisa\source\repos\Traffic Signal\Traffic Signal\obj\Debug\Traffic Signal.csproj.GenerateResource.cache
+C:\Users\Fina Khairunnisa\source\repos\Traffic Signal\Traffic Signal\obj\Debug\Traffic Signal.csproj.CoreCompileInputs.cache
+C:\Users\Fina Khairunnisa\source\repos\Traffic Signal\Traffic Signal\bin\Debug\Traffic Signal.exe.config
+C:\Users\Fina Khairunnisa\source\repos\Traffic Signal\Traffic Signal\bin\Debug\Traffic Signal.exe
+C:\Users\Fina Khairunnisa\source\repos\Traffic Signal\Traffic Signal\bin\Debug\Traffic Signal.pdb
+C:\Users\Fina Khairunnisa\source\repos\Traffic Signal\Traffic Signal\obj\Debug\Traffic Signal.exe
+C:\Users\Fina Khairunnisa\source\repos\Traffic Signal\Traffic Signal\obj\Debug\Traffic Signal.pdb
